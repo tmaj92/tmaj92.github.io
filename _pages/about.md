@@ -23,4 +23,4 @@ explore the mathematical aspects of General Relativity, later evolved into a des
 
 I did my MS in Physics from the [Indian Institute of Science Education and Research, Kolkata](https://www.iiserkol.ac.in/web/en/), and a long time ago, I was an undergraduate student in Electronics and Communication Engineering, and earned my B.Tech degree from the [West Bengal University of Technology](https://makautwb.ac.in/). 
 
-Currently, I am brushing up on the typical undergraduate mathematics curriculum, along with some advanced topics. My aim is to successfully crack the upcoming entrance exams at the top mathematics institues in India.
+Currently, I am brushing up on the typical undergraduate mathematics curriculum, along with some advanced topics. My aim is to successfully crack the upcoming entrance exams at the top mathematics institutes in India.
